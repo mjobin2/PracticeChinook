@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+#region Security Namespace
+using ChinookSystem.Security;
+#endregion
+
 namespace ChinookSystem.Security
 {
     public class RoleProfile
